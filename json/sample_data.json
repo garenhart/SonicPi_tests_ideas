@@ -1,0 +1,10 @@
+{
+    "author":"Isaac Asimov",
+    "url":"https://isaacbooks.com",
+    "books":
+      {
+        "1":"Fantastic Voyage",
+        "2":"The Robots of Dawn",
+        "3": "Pebble In The Sky"
+      }
+  }
